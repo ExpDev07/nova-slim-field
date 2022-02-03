@@ -7,7 +7,7 @@ alternative to Doka (now Pintura) for those who want a less expensive cropping e
 
 #### Composer install the package:
 
-``composer install expdev07/nova-slim-field``
+``composer require expdev07/nova-slim-field``
 
 #### Publish the config:
 
