@@ -1,9 +1,15 @@
 {
     "name": "expdev07/nova-slim-field",
-    "description": "A Laravel Nova field.",
+    "description": "Laravel Nova field for cropping images using the \"Slim Image Cropper\" (https://pqina.nl/slim/). This is an alternative to Doka (now Pintura) for those who want a less expensive cropping experience.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "field",
+        "image",
+        "cropping",
+        "slim",
+        "admin",
+        "expdev07"
     ],
     "license": "MIT",
     "require": {
