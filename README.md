@@ -53,24 +53,24 @@ public function fields(Request $request): array
 #### Empty state
 
 <p>
-    <img src="https://github.com/ExpDev07/nova-slim-field/tree/main/screenshots/screenshot_1.JPG" alt="">
+    <img src="https://github.com/ExpDev07/nova-slim-field/blob/main/screenshots/screenshot_1.JPG" alt="">
 </p>
 
 #### Image uploaded
 
 <p>
-    <img src="https://github.com/ExpDev07/nova-slim-field/tree/main/screenshots/screenshot_2.JPG" alt="">
+    <img src="https://github.com/ExpDev07/nova-slim-field/blob/main/screenshots/screenshot_2.JPG" alt="">
 </p>
 
 #### Cropping image
 
 <p>
-    <img src="https://github.com/ExpDev07/nova-slim-field/tree/main/screenshots/screenshot_3.JPG" alt="">
+    <img src="https://github.com/ExpDev07/nova-slim-field/blob/main/screenshots/screenshot_3.JPG" alt="">
 </p>
 
 #### Image cropped
 
 <p>
-    <img src="https://github.com/ExpDev07/nova-slim-field/tree/main/screenshots/screenshot_4.JPG" alt="">
+    <img src="https://github.com/ExpDev07/nova-slim-field/blob/main/screenshots/screenshot_4.JPG" alt="">
 </p>
 
