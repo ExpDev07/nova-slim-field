@@ -32,6 +32,8 @@ alternative to Doka (now Pintura) for those who want a less expensive cropping e
 
 ## Using
 
+Slim extends the <a href="https://nova.laravel.com/docs/1.0/resources/fields.html#image-field">Image Field</a>, so you have all your normal options such as deciding how to store the image.
+
 ```php
 /**
  * Get the fields displayed by the resource.
