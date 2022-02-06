@@ -4,7 +4,7 @@
 
 [![Latest Stable Version](http://poser.pugx.org/expdev07/nova-slim-field/v)](https://packagist.org/packages/expdev07/nova-slim-field) [![Total Downloads](http://poser.pugx.org/expdev07/nova-slim-field/downloads)](https://packagist.org/packages/expdev07/nova-slim-field) [![Latest Unstable Version](http://poser.pugx.org/expdev07/nova-slim-field/v/unstable)](https://packagist.org/packages/expdev07/nova-slim-field) [![License](http://poser.pugx.org/expdev07/nova-slim-field/license)](https://packagist.org/packages/expdev07/nova-slim-field) [![PHP Version Require](http://poser.pugx.org/expdev07/nova-slim-field/require/php)](https://packagist.org/packages/expdev07/nova-slim-field)
 
-This package adds a new field for cropping images using the "Slim Image Cropper" (https://pqina.nl/slim/). This is an 
+This package adds a new Laravel Nova field for cropping images using the "Slim Image Cropper" (https://pqina.nl/slim/). This is an 
 alternative to Doka (now Pintura) for those who want a less expensive cropping experience.
 
 ## Install
